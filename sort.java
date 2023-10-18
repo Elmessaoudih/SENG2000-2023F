@@ -28,7 +28,7 @@ public class sort {
       
          public static void main(String[] args) {
             // Create an array of numbers to sort
-            int[] numbers = { 10, 2, 78, 4, 45, 32, 7, 11, 12, 13, 1};
+            int[] numbers = { 10, 2, 78, 4, 45, 32, 7, 11 };
             
             // Display the contents of the array
             System.out.println("UNSORTED: " + Arrays.toString(numbers));
